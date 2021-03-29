@@ -1,7 +1,7 @@
 [
    
    {
-      "idOfPlant":1,
+      "idOfPlant":0,
       "localName":"Jatropha",
       "scientificName":"Jatropha curcas",
       "familyName":"Euphorbiaceae",
@@ -11,7 +11,7 @@
       "similarPlants":"‌Indian pennywort"
    },
    {
-      "idOfPlant":2,
+      "idOfPlant":1,
       "localName":"Kudaludehi",
       "scientificName":"Citrus limon",
       "familyName":"Rutaceae",
@@ -21,7 +21,7 @@
       "similarPlants":"‌Chebulic Myrobalan,Indian Gooseberry"
    },
    {
-      "idOfPlant":3,
+      "idOfPlant":2,
       "localName":"Mango",
       "scientificName":"Mangifera indica",
       "familyName":"Anacardiaceae",
@@ -31,7 +31,7 @@
       "similarPlants":"Neem tree‌"
    },
    {
-      "idOfPlant":4,
+      "idOfPlant":3,
       "localName":"Jamun",
       "scientificName":"Syzygium cumini",
       "familyName":"Myrtaceae",
@@ -41,7 +41,7 @@
       "similarPlants":"‌Guava,White marudah"
    },
    {
-      "idOfPlant":5,
+      "idOfPlant":4,
       "localName":"Arjun tree/White marudah",
       "scientificName":"இருக்கும்  மணிக்கு",
       "familyName":"Combretaceae",
@@ -51,7 +51,7 @@
       "similarPlants":"Neem Tree‌"
    },
    {
-      "idOfPlant":6,
+      "idOfPlant":5,
       "localName":"‌Guava",
       "scientificName":"Psidium guajava",
       "familyName":"Myrtaceae",
