@@ -1,7 +1,7 @@
 [
    
    {
-      "idOfPlant":0,
+      "idOfPlant":1,
       "localName":"Jatropha",
       "scientificName":"Jatropha curcas",
       "familyName":"Euphorbiaceae",
@@ -11,7 +11,7 @@
       "similarPlants":"‌Indian pennywort"
    },
    {
-      "idOfPlant":1,
+      "idOfPlant":2,
       "localName":"Kudaludehi",
       "scientificName":"Citrus limon",
       "familyName":"Rutaceae",
@@ -21,7 +21,7 @@
       "similarPlants":"‌Chebulic Myrobalan,Indian Gooseberry"
    },
    {
-      "idOfPlant":2,
+      "idOfPlant":3,
       "localName":"Mango",
       "scientificName":"Mangifera indica",
       "familyName":"Anacardiaceae",
