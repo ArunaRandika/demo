@@ -65,4 +65,65 @@
       "similarPlants":"‌Chebulic Myrobalan,Indian Gooseberry"
 
    }
+   ,
+   {
+      "idOfPlant":6,
+      "localName":"Jatropha",
+      "scientificName":"Jatropha curcas",
+      "familyName":"Euphorbiaceae",
+      "statusOfPlant":"Naturalized Exotic",
+      "treatments":"Nausea,Diabetes mellitus,Sciatica,Rheumatoid arthritis,Osteoarthritis.",
+      "description":"Shrub or small tree up to about 6 m tall. Leaves 5.5-14 (-18) cm long and wide, shallowly 5-lobed or lobes lacking. Stipules minute. Inflorescences subcorymbose, often paired, up to 12 cm long; peduncle up to 7 cm long; petals greenish-yellow. Capsule 2.5-3 x 2 cm. Seeds 1.7 x 1 cm compressed, black.",
+      "similarPlants":"‌Indian pennywort"    
+
+   }
+   ,
+   {
+      "idOfPlant":7,
+      "localName":"Kudaludehi",
+      "scientificName":"Citrus hystrix",
+      "familyName":"Rutaceae",
+      "statusOfPlant":"Only Under Cultivation",
+      "treatments":"Indigestions,Headache",
+      "description":"Shrub or tree, to 12 m high, with short stiff spines. Leaves broadly ovate; blades to 8 cm long, 6 cm wide, margins serrate-crenulate; petiole broadly winged. Inflorescence axillary, 1-5 flowered. Flowers fragrant, buds globose; petals white or sometimes cream or pinkish, to 1 cm long. Fruitsubglobose, up to 7 cm diameter; pericarp green to yellow, irregularly bumpy, glandular, pulp greenish, juice acid, bitter. Seds to about 15 x 5 mm.",
+      "similarPlants":"‌Ginger,coffee"
+
+   }
+   ,
+   {
+      "idOfPlant":8,
+      "localName":"Neem",
+      "scientificName":"Azadirachta indica",
+      "familyName":"Rutaceae",
+      "statusOfPlant":"Native",
+      "treatments":"Fevers,Skin ailments,Wounds,Coughs,Asthma,Eye diseases,Worms",
+      "description":"A tall tree with spreading branches, stem and young parts glabrous. Leaves imparipinnate compound, extipulate, crowded; rachis 15-22.5 cm long; leaflets 2-8 pairs and a terminal one, shortly stalked, 5-10 cm long, very unequal sided, oblique at the base, margin coarsely dentate-serrate. Inflorescences paniculate, 12.5-20 cm long. Flowers white, sweet scented. Fruit an oblong-ovoid drupe, 1.5-1.8 cm long, greenish yellow, one seeded.",
+      "similarPlants":"‌Pomegranate"
+
+   }
+   ,
+   {
+      "idOfPlant":9,
+      "localName":"Pennywort",
+      "scientificName":"Centella asiatica",
+      "familyName":"Apiaceae",
+      "statusOfPlant":"Native",
+      "treatments":"Kidney diseases,Parasites,Leprosy,Lactation disorders,Skin and mucosal diseases,Arthritis,Diarrohea,Rheumatism,Dysentery,Depression,Ear diseases,Genital disorders,Febrifuge,Nervous system disorders,Paralysis,Epilepsy,Spasms,Pains,Obstructions in veins and arteries",
+      "description":"Common weed all over the island, prostrate stems 10 cm-1 m long. Leaves 1-6, clustered on a short shoot at each node, orbicular to reniform in outline, 0.5 to 2 cm long, 1-3 cm broad, margins entire, crenate or dentate. Petioles 1-10 cm long, pedicels very short, 0.5 to 1 mm long. Umbels mostly 3-flowered, petals white or rose-tinged, minute. Fruits orbicular to ellipsoid, 2-3 mm long, 3-4 mm broad.",
+      "similarPlants":"‌Neem Tree‌"
+
+   }
+   ,
+   {
+      "idOfPlant":10,
+      "localName":"Black pepper",
+      "scientificName":"Piper nigrum",
+      "familyName":"Piperaceae",
+      "statusOfPlant":"Naturalized Exotic",
+      "treatments":"Tonsillitis,Dyspepsia,Flatulence,Gonorrhea,Coughs,Haemorrhoids",
+      "description":"Perennial vine, climber; stem semi-woody; rooting sparingly; nodes thickened; young parts glabrous. Leaves 12.7-17.5 cm long, cordate at base; petioles 2.5-3.7 cm long. Flowers bisexual, sessile in axils of fleshy bracts, arranged in leaf-opposed spikes 5 cm long. Fruit nearly globose, at first dar green, about 6 mm long passing through orange-yellow to dull red when ripe in pendulous spikes 10-15 cm long.",
+      "similarPlants":"‌Arjun,‌Guava"
+
+   }
+
 ]
